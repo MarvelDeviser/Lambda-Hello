@@ -3,7 +3,7 @@
 ## Who I am in three words
 /*  
      ->   Passionate 
-        ->   Coder. 
+        ->Coder. 
      ->   Geek 
 
 */
